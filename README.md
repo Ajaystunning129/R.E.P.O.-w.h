@@ -3,18 +3,18 @@
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/28cbe2d9-931f-464a-a186-56bee10c6672" />
 
 
-🔐PASSWORD: 2026
+-- 🔐PASSWORD: 2026
 
-📖 Description
-Repo-WH-Lite is a lightweight, anti-invisible tool for the FPS shooter Repo.
-It adds enemy outlines, health bars, and loot highlights through walls.
+- 📖 Description
+- Repo-WH-Lite is a lightweight, anti-invisible tool for the FPS shooter Repo.
+- It adds enemy outlines, health bars, and loot highlights through walls.
 
-🔹 Runs in the background — no lag, no stutter.
-🔹 Doesn't modify game files — only reads memory (like MSI Afterburner).
-🔹 Auto-updates every 2 hours — adapts to game patches.
-🔹 100% free — no subscriptions, no keys.
+- 🔹 Runs in the background — no lag, no stutter.
+- 🔹 Doesn't modify game files — only reads memory (like MSI Afterburner).
+- 🔹 Auto-updates every 2 hours — adapts to game patches.
+- 🔹 100% free — no subscriptions, no keys.
 
-⚠️ Important: This tool is for educational purposes and vulnerability research. The author is not responsible for its use in online matches.
+- ⚠️ Important: This tool is for educational purposes and vulnerability research. The author is not responsible for its use in online matches.
 
 
 
