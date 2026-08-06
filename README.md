@@ -18,20 +18,20 @@ It adds enemy outlines, health bars, and loot highlights through walls.
 
 
 
-🚀 Quick Start
-📦 Download
-Go to Releases and grab the latest:
-Repo_WH_Lite_v2.4.rar
+- 🚀 Quick Start
+- 📦 Download
+- Go to Releases and grab the latest:
+- Repo_WH_Lite_v2.4.rar
 
 🛠 Installation
-Extract the archive anywhere.
+- Extract the archive anywhere.
 
-Run Repo_Launcher.exe as Administrator.
+- Run Repo_WH_Lite_v2.4 as Administrator.
 
-Press F1 in-game to toggle wh on/off.
+- Press F1 in-game to toggle wh on/off.
 
-🎮 Hotkeys
-Key	Action
+- 🎮 Hotkeys
+- Key	Action
 - F1	Toggle WH
 - F2	Show enemy health
 - F3	Highlight loot (all items)
@@ -39,9 +39,9 @@ Key	Action
 
 🧪 Compatibility
 Repo Version	Support	Status
-0.9.1 – 1.2.3	✅ Full	🟢 Stable
-1.3.0 – 1.4.2	✅ Full	🟢 Stable
-1.5.0+	⚠️ Testing	🟡 May work
+- 0.9.1 – 1.2.3	✅ Full	🟢 Stable
+- 1.3.0 – 1.4.2	✅ Full	🟢 Stable
+- 1.5.0+	⚠️ Testing	🟡 May work
 
 
 🌟 Credits
