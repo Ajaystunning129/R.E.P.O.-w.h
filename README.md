@@ -32,10 +32,10 @@ Press F1 in-game to toggle wh on/off.
 
 🎮 Hotkeys
 Key	Action
-F1	Toggle WH
-F2	Show enemy health
-F3	Highlight loot (all items)
-F4	Hide UI (screenshot mode)
+- F1	Toggle WH
+- F2	Show enemy health
+- F3	Highlight loot (all items)
+- F4	Hide UI (screenshot mode)
 
 🧪 Compatibility
 Repo Version	Support	Status
